@@ -6,6 +6,7 @@ body:
     attributes:
       value: |
         Need help with LogFilter? Ask your question below.
+        Check the [documentation](https://tysontheember.dev/log-filter/intro/) first - your answer might already be there!
 
   - type: textarea
     id: question
